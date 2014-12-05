@@ -1,9 +1,28 @@
-
 {
-	"license": "MIT",
-	"version": "1.0.0",
-	"require": {
-		"lichtner/fluentpdo": "dev-master",
-		"clnt/materialize": "dev-master"
-}
+
+    "name": "NUOG/hostel-living",
+    "description": "Peoples catalog who live in hostel",
+    "version": "1.0.0",
+    "type": "project",
+    "keywords": ["hostel", "catalog", "people"],
+    "homepage": "http://hostel.nung.edu.ua",
+    "time": "2014-12-05",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Bronovskyi",
+            "email": "admin@brun.if.ua",
+            "homepage": "http://brun.if.ua",
+            "role": "Developer, Maintainer"
+        },
+        {
+            "name": "Vitaliy Gushiy",
+            "email": "gushiy26@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "lichtner/fluentpdo": "dev-master",
+        "clnt/materialize": "dev-master"
+    }
 }
