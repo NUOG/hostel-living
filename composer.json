@@ -1,0 +1,9 @@
+
+{
+	"license": "MIT",
+	"version": "1.0.0",
+	"require": {
+		"lichtner/fluentpdo": "dev-master",
+		"clnt/materialize": "dev-master"
+}
+}
