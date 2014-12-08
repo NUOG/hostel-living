@@ -24,6 +24,6 @@
     "require": {
         "lichtner/fluentpdo": "dev-master",
         "clnt/materialize": "dev-master",
-        "twig/twig:~1.0"
+        "twig/twig": "~1.0"
     }
 }
